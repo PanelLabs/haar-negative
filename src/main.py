@@ -1,7 +1,7 @@
 import urllib, sys, httplib, os
 from urlparse import urlparse
 
-MAX = 4875
+MAX = 2913
 
 def checkUrl(url):
     p = urlparse(url)
